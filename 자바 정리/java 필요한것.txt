@@ -1,0 +1,11 @@
+프론트 	HTML,CSS,Javascript(폼유효성검사)
+백	java(1.8version) , servlet, jsp
+DB	Oracle(평가), Mysql -> SQL
+WAS	tomcat9
+개발툴	이클립스 2018(Java (1.8))
+기능구현
+평가: CRUD
+포폴: CURD+덧글, 페이징, ajax, 회원가입, 로그인, session
+웹계정 -> AWS->EC2 : Java (1.8) , tomcat9(8)
+
+MVC -> Model2 -> Web Application 개발 -> "게시판",form
